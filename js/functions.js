@@ -25,6 +25,8 @@ function redirect(){
 	var lang = getCookie('lang')
 
 	if (lang == 'fr') {
-		window.location.replace("accueil.html");
+		window.location.replace("fr.html");
 	}
+	
+	window.location.replace("en.html");
 }
