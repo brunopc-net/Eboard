@@ -24,10 +24,10 @@ function getCookie(cname) {
 
 function redirect(){
 	var lang = getCookie('lang')
-	alert(lang);
-	if (lang == 'fr') {
+
+	if (lang == 'fr'){
 		window.location.replace("fr.html");
+	}else{
+		window.location.replace("en.html");
 	}
-	
-	window.location.replace("en.html");
 }
