@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/brunopc
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://brunopc.net
+  * I am brunopc (https://keybase.io/brunopc) on keybase.
+  * I have a public key ASAIet0IbdsbP5YunXCGDbMnaxCQdiEZYYPa3s_OCuvHKAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120087add086ddb1b3f962e9d70860db3276b10907621196183dadecfce0aebc7280a",
+      "host": "keybase.io",
+      "kid": "0120087add086ddb1b3f962e9d70860db3276b10907621196183dadecfce0aebc7280a",
+      "uid": "8668c21201c5e10b1407f910ebe4bf19",
+      "username": "brunopc"
+    },
+    "merkle_root": {
+      "ctime": 1542410073,
+      "hash": "4874d81975383f4eccfbc79a4eb2b6736f61df11fa9b68caddcd69e953a2029c3ddff78cbc753386a851dc3457b25e691a87692abaccf30970c8c8af7e91f417",
+      "hash_meta": "d3d5b6bb3d502492566b634727aadc127c7e9cc9575869d76a43f4dbb7ab0810",
+      "seqno": 3966877
+    },
+    "service": {
+      "entropy": "bn+JKZGVvo5aDYzuteVKG8+m",
+      "hostname": "brunopc.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.10.0"
+  },
+  "ctime": 1542410099,
+  "expire_in": 504576000,
+  "prev": "c4f501820ebed4d0f1dc96a0fad723d8094a1245f95cf0990da5f6b30711c057",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCHrdCG3bGz+WLp1whg2zJ2sQkHYhGWGD2t7PzgrrxygKp3BheWxvYWTESpcCB8QgxPUBgg6+1NDx3Jag+tcj2AlKEkX5XPCZDaX2swcRwFfEIEyMBap97YMs75vqm1koX8pEgZBiGQWfB2FGGKl8W46XAgHCo3NpZ8RADohOADl2vNl31Qu28jxVEZ0c1JHNdAX25r4RaEtO2sEIYC21dQHtp0Onc/BJ8eV0JUpwGtHN7Q18hyF0KIuYBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFX/euGdgRMFBuguIqOjjMhScxDtr+Ls2p/juFBZXVBto3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/brunopc
+
+==================================================================
